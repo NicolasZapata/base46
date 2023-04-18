@@ -61,6 +61,7 @@ M.polish_hl = {
   ["@tag.delimiter"] = { fg = M.base_30.base0D },
   ["@parameter"] = { fg = M.base_16.base09 },
   ["@constructor"] = { fg = M.base_16.base0C },
+  ["@operator"] = { fg = M.base_16.base0E },
   ["@tag.attribute"] = { fg = M.base_30.base0F },
 }
 

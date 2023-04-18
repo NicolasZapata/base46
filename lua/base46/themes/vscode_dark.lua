@@ -64,6 +64,7 @@ M.polish_hl = {
   ["@field.key"] = { fg = M.base_30.green1 },
   ["@keyword.return"] = { fg = M.base_16.base0E },
   ["@keyword.function"] = { fg = M.base_30.teal },
+  ["@operator"] = { fg = M.base_30.pmenu_bg },
 }
 
 M.type = "dark"

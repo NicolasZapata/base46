@@ -55,6 +55,10 @@ M.base_16 = {
   base0F = "#be5046",
 }
 
+M.polish_hl = {
+  ["@operator"] = { fg = M.base_16.base0E },
+}
+
 M.type = "dark"
 
 M = require("base46").override_theme(M, "onedark")
